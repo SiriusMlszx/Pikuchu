@@ -301,4 +301,3 @@ const player = {
 }
 
 player.init()
-
